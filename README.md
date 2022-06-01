@@ -5,7 +5,7 @@ instructive. I received full credit for this assignment as well as one of the hi
 in the course.
 
 This program will take ten integers and display the sum and average, 
-expanding normally trivial single-line operation into a 300 line 
+expanding a normally trivial single-line operation into a 300 line 
 assembly language program.
 
 This was written in Visual Studio with an IA-32 assembly language setup configuration.
